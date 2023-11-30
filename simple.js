@@ -1,1 +1,1 @@
-console.log("Hello world!");
+console.log("Hello world! This is an edited version of simpe js file");
